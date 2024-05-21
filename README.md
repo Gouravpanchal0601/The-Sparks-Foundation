@@ -3,7 +3,7 @@ This repository contains the solution for Task 6 of the Sparks Foundation Data S
 
 ## Dataset
 
-We will use the famous Iris dataset (Dataset = Iris.csv), which includes three classes of iris plants (setosa, versicolor, and virginica), with 50 samples each. Four features are measured from each sample: the lengths and the widths of the sepals and petals.
+We will use the famous Iris dataset (Iris.csv), which includes three classes of iris plants (setosa, versicolor, and virginica), with 50 samples each. Four features are measured from each sample: the lengths and the widths of the sepals and petals.
 
 ## Requirements
 
